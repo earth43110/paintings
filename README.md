@@ -16,4 +16,4 @@ Contains tables artist, canvas_size, completedacct, completedcard, museum, museu
 how many paintings there were for the most frequently painted subject in that style, 
 how many paintings there are in that style overall, and the percent of paintings in that 
 style with the most frequent subject. Exclude cases where there is no 
-information on the subject of the painting. Format the table and copy it into the google doc. 
+information on the subject of the painting. 
